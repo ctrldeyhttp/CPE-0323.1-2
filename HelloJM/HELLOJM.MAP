@@ -1,0 +1,10 @@
+Warning: DOSSEG directive ignored in module HELLOJM.ASM
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00039H 0003AH _TEXT              CODE
+ 00040H 000B2H 00073H _DATA              DATA
+ 000C0H 001BFH 00100H STACK              STACK
+
+Program entry point at 0000:0000
+
